@@ -66,7 +66,7 @@ I'm from small town called Grudziądz in central Poland 🏠. I've always been i
 <img height="65px" alt="es6" src="https://raw.githubusercontent.com/emblaszkiewicz/emblaszkiewicz/main/logos/s6.png" />
 <img height="65px" alt="js" src="https://raw.githubusercontent.com/emblaszkiewicz/emblaszkiewicz/main/logos/js.png" />
 <img height="65px" alt="react" src="https://raw.githubusercontent.com/emblaszkiewicz/emblaszkiewicz/main/logos/react.png" />
-<img height="65px" alt="react" src="https://raw.githubusercontent.com/emblaszkiewicz/emblaszkiewicz/main/logos/mongodb.png" />
+<img height="65px" alt="mongodb" src="https://raw.githubusercontent.com/emblaszkiewicz/emblaszkiewicz/main/logos/mongodb.png" />
   
 </div>
 
@@ -78,7 +78,7 @@ I'm from small town called Grudziądz in central Poland 🏠. I've always been i
 <img height="65px" alt="chrome" src="https://raw.githubusercontent.com/emblaszkiewicz/emblaszkiewicz/main/logos/chrome.png" />
 <img height="65px" alt="git" src="https://raw.githubusercontent.com/emblaszkiewicz/emblaszkiewicz/main/logos/git.png" />
 <img height="65px" alt="vsc" src="https://raw.githubusercontent.com/emblaszkiewicz/emblaszkiewicz/main/logos/vsc.png" />
-<img height="65px" alt="vsc" src="https://raw.githubusercontent.com/emblaszkiewicz/emblaszkiewicz/main/logos/nodejs.png" />
+<img height="65px" alt="nodejs" src="https://raw.githubusercontent.com/emblaszkiewicz/emblaszkiewicz/main/logos/nodejs.png" />
 
 </div>
 
