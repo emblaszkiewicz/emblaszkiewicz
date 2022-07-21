@@ -39,7 +39,7 @@ I'm from small town called Grudziądz in central Poland 🏠. I've always been i
 <br /> 
 
 - 💡 I like to learn new technologies.
-- 📖 I’m currently learning JavaScript, React, Redux.
+- 📖 I’m currently learning JavaScript, React, Redux, Node.
 - 🔹 I really love to spend time with my family and friends.
   
 <br />
