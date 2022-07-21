@@ -1,6 +1,6 @@
 ![](https://raw.githubusercontent.com/emblaszkiewicz/emblaszkiewicz/main/media/banner.jpg)
 
-<h1 align="center">Hi! I'm Michał Błaszkiewicz!</h1>
+<h1 align="center">Hi! 👋 I'm Michał Błaszkiewicz!</h1>
 
 <h3 align="center">I want to become a Web Developer.</h3>  
 
