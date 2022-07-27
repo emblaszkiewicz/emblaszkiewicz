@@ -6,7 +6,7 @@
 
 <br /> 
 
-I'm from small town called Grudziądz in central Poland 🏠. I've always been interested in programming, that's why I graduated IT technical school 👨‍🎓. Unfortunately, after graduate I couldn't continue education and develop in that direction. Now thanks to new opportunities and finished bootcamp my dreams can come true and I can start working as developer 💻. I know that my knowledge, my skills and inexperience leaves much to be desired, but I can ensure you that I'm inquisitive and very ambitious person and if I get a chance to get on board and, as result further develop and learn from experienced developers my skills will improve in startling rate. Confucius once said, "Choose a job you love, and you will never have to work a day in your life", so I hope that I will also naver have to work again.
+I've always been interested of programming 💻. Now I'm learning on bootcamp to become a Web Developer, improving my skills 💥. I hope one day I become one of the best Web Developer 👨‍🎓.
 
 <br /> 
 
