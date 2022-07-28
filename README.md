@@ -6,13 +6,12 @@
 
 <br /> 
 
-I've always been interested of programming 💻. Now I'm learning on bootcamp to become a Web Developer, improving my skills 💥. I hope one day I become one of the best Web Developer 👨‍🎓.
-
+I've always been interested of programming 💻. I want to become Front End Developer 👨‍🎓. Constantly improving my skills by learning new technologies, solving bugs and drawing conclusions from it 💥
 <br /> 
 
 <div align="center">
 
-[<img height="30px" src="https://raw.githubusercontent.com/emblaszkiewicz/emblaszkiewicz/main/media/linkedin.png">](https://www.linkedin.com/)
+[<img height="30px" src="https://raw.githubusercontent.com/emblaszkiewicz/emblaszkiewicz/main/media/linkedin.png">](https:// www.linkedin.com/in/emblaszkiewicz/)
 [<img height="30px" src="https://raw.githubusercontent.com/emblaszkiewicz/emblaszkiewicz/main/media/insta.png">](https://www.instagram.com/)
 
 </div>
@@ -39,7 +38,7 @@ I've always been interested of programming 💻. Now I'm learning on bootcamp to
 <br /> 
 
 - 💡 I like to learn new technologies.
-- 📖 I’m currently learning JavaScript, React, Redux, Node.
+- 📖 I’m currently learning TypeScript.
 - 🔹 I really love to spend time with my family and friends.
   
 <br />
