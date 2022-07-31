@@ -38,7 +38,7 @@ I've always been interested of programming 💻. I want to become Front End Deve
 <br /> 
 
 - 💡 I like to learn new technologies.
-- 📖 I’m currently learning TypeScript.
+- 📖 I’m currently learning TypeScript & MySQL.
 - 🔹 I really love to spend time with my family and friends.
   
 <br />
