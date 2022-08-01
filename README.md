@@ -6,7 +6,7 @@
 
 <br /> 
 
-<p style="text-align: center;">I've always been interested of programming 💻. Constantly improving my skills by learning new technologies, solving bugs and drawing conclusions from it 💥.</p>
+<p align="center">I've always been interested of programming 💻. Constantly improving my skills by learning new technologies, solving bugs and drawing conclusions from it 💥.</p>
 
 <br /> 
 
