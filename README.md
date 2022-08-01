@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi! 👋 I'm Michał Błaszkiewicz!</h1>
 
-<h3 align="center">I want to become a Web Developer.</h3>  
+<h3 align="center">Junior Front End Developer.</h3>  
 
 <br /> 
 
@@ -12,7 +12,6 @@ I've always been interested of programming 💻. I want to become Front End Deve
 <div align="center">
 
 [<img height="30px" src="https://raw.githubusercontent.com/emblaszkiewicz/emblaszkiewicz/main/media/linkedin.png">](https://www.linkedin.com/in/emblaszkiewicz/)
-[<img height="30px" src="https://raw.githubusercontent.com/emblaszkiewicz/emblaszkiewicz/main/media/insta.png">](https://www.instagram.com/)
 
 </div>
 
