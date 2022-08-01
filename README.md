@@ -90,6 +90,6 @@
 
 <div align="center">
 
-[<img height="40px" src="https://raw.githubusercontent.com/emblaszkiewicz/emblaszkiewicz/main/media/gmail.png">](https://mail.google.com/mail/)
+[<img height="40px" src="https://raw.githubusercontent.com/emblaszkiewicz/emblaszkiewicz/main/media/gmail.png">](mailto:blaszkiewiczem@gmail.com)
 
 </div>
