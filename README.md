@@ -2,11 +2,11 @@
 
 <h1 align="center">Hi! 👋 I'm Michał Błaszkiewicz!</h1>
 
-<h3 align="center">Junior Front End Developer.</h3>  
+<h3 align="center">Junior Front End Developer</h3>  
 
 <br /> 
 
-I've always been interested of programming 💻. I want to become Front End Developer 👨‍🎓. Constantly improving my skills by learning new technologies, solving bugs and drawing conclusions from it 💥
+I've always been interested of programming 💻. Constantly improving my skills by learning new technologies, solving bugs and drawing conclusions from it 💥
 <br /> 
 
 <div align="center">
@@ -44,8 +44,6 @@ I've always been interested of programming 💻. I want to become Front End Deve
 - 🔹 I really love to spend time with my family and friends.
   
 <br />
-
-<br /> 
 
 <br /> 
 
