@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi! 👋 I'm Michał Błaszkiewicz!</h1>
 
-<h3 align="center">Junior Frontend Developer</h3>  
+<h3 align="center">JavaScript Developer</h3>  
 
 <br /> 
 
